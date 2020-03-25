@@ -1,0 +1,1 @@
+One of my deep learning researchs, and this is how I predict COVID-19 cases up to next n-days using stateful LSTM. Maybe I did it with some mistake, please show me how to do it better.
