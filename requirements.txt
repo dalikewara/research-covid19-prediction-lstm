@@ -44,7 +44,7 @@ logmmse==1.4
 Markdown==3.2.1
 MarkupSafe==1.1.1
 matplotlib==3.2.0
-mistune==0.8.4
+mistune==2.0.3
 mlxtend==0.17.2
 nbconvert==5.6.1
 nbformat==5.0.4
